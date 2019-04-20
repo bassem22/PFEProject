@@ -13,7 +13,7 @@ public class PresentationProjectApplicationTests {
 	
 	@Test
 	public void contextLoads() {
-		System.out.println("hello");
+	
 	}
 
 }
